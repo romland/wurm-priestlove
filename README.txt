@@ -1,5 +1,7 @@
 2022 note: These were comments I had written some 4-5 years ago:
 
+Note: I do not know whether this mod works on latest version of Wurm Unlimited. In general, though, pretty small patches are needed for upgrades.
+
 /*
  * Priests in Wurm were always a bit of second class citizens, details made it so. Give them faith/chan grinders a bit o' credit.
  * 
